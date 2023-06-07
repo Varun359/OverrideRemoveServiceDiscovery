@@ -1,0 +1,1 @@
+./app --config=${ADITYA_NAME}/config.yaml
